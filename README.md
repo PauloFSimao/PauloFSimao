@@ -5,7 +5,7 @@
 ![Paulo Simão GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloFSimao&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFSimao&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Tecnologias</h2><hr>
+<h2>Tecnologias</h2>
 
 <div style="display: inline-block">
     <img display="inline-block" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
-<h2>Ferramentas</h2><hr>
+<h2>Ferramentas</h2>
 
 <div style="display:inline_block">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
