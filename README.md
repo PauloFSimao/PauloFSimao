@@ -2,9 +2,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-felipe-silva-sim%C3%A3o-561763236/)
 
-
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=PauloFSimao&show_icons=true&theme=tokyonight">
-<img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFSimao&layout=compact&theme=tokyonight">
+<div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PauloFSimao&show_icons=true&theme=tokyonight">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFSimao&layout=compact&theme=tokyonight">
+</div>
 
 <h2>Tecnologias</h2>
 
