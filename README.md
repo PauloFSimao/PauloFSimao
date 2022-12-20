@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Olá! Eu sou Paulo Felipe ✌️</h1>
+<h1 align= "center">Olá! Eu sou Paulo Felipe ✌️</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-felipe-silva-sim%C3%A3o-561763236/)
 
